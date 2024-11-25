@@ -5,11 +5,14 @@
         "dblquad",
         "factorint",
         "intfunc",
+        "isprime",
         "meshgrid",
         "ntheory",
+        "randprime",
         "venv",
         "xlabel",
         "ylabel",
-        "zlabel"
+        "zlabel",
+        "абвгдежзийклмнопрстуфхцчшщъыьэюя"
     ]
 }
