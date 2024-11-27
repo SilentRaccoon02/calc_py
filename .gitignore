@@ -1,1 +1,4 @@
 .venv/
+encrypt.txt
+key_A.txt
+key_B.txt
